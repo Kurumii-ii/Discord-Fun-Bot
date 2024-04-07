@@ -1,0 +1,8 @@
+discord
+requests
+colorama
+asyncio
+datetime
+grabzit
+screenshotone
+openai

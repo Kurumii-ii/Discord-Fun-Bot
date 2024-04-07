@@ -1,0 +1,9 @@
+{
+    "Token": "BotTokenHere",
+    "Prefix": ".",
+    "SnipeUser": [],
+    "Admin": "123",
+    "logChannel": "123",
+    "attachmentsChannel": "123",
+    "openaiKey": "YourKeyHere"
+}
